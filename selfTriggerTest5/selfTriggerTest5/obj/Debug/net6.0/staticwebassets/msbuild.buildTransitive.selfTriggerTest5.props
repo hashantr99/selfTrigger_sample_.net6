@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\selfTriggerTest5.props" />
+</Project>
